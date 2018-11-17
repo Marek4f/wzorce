@@ -1,0 +1,16 @@
+C:\Users\eggert.m\Desktop\StypaAneta\SingletonExample\SingletonExample\bin\Debug\SingletonExample.exe.config
+C:\Users\eggert.m\Desktop\StypaAneta\SingletonExample\SingletonExample\bin\Debug\SingletonExample.exe
+C:\Users\eggert.m\Desktop\StypaAneta\SingletonExample\SingletonExample\bin\Debug\SingletonExample.pdb
+C:\Users\eggert.m\Desktop\StypaAneta\SingletonExample\SingletonExample\obj\Debug\SingletonExample.csprojAssemblyReference.cache
+C:\Users\eggert.m\Desktop\StypaAneta\SingletonExample\SingletonExample\obj\Debug\SingletonExample.csproj.CoreCompileInputs.cache
+C:\Users\eggert.m\Desktop\StypaAneta\SingletonExample\SingletonExample\obj\Debug\SingletonExample.exe
+C:\Users\eggert.m\Desktop\StypaAneta\SingletonExample\SingletonExample\obj\Debug\SingletonExample.pdb
+C:\Users\uzytkownik\Desktop\wzorce\StypaAneta\SingletonExample\SingletonExample\bin\Debug\SingletonExample.exe.config
+C:\Users\uzytkownik\Desktop\wzorce\StypaAneta\SingletonExample\SingletonExample\obj\Debug\SingletonExample.exe
+C:\Users\uzytkownik\Desktop\wzorce\StypaAneta\SingletonExample\SingletonExample\obj\Debug\SingletonExample.pdb
+C:\Users\uzytkownik\Desktop\wzorce\StypaAneta\SingletonExample\SingletonExample\bin\Debug\SingletonExample.exe
+C:\Users\uzytkownik\Desktop\wzorce\StypaAneta\SingletonExample\SingletonExample\bin\Debug\SingletonExample.pdb
+C:\Users\uzytkownik\Desktop\wzorce\StypaAneta\SingletonExample\SingletonExample\obj\Debug\SingletonExample.csprojResolveAssemblyReference.cache
+C:\Users\uzytkownik\Desktop\wzorce\wzorce\DesignPatterns\01Singleton\Students\2018\meggert\Singleton\SingletonExample\bin\Debug\SingletonExample.exe.config
+C:\Users\uzytkownik\Desktop\wzorce\wzorce\DesignPatterns\01Singleton\Students\2018\meggert\Singleton\SingletonExample\obj\Debug\SingletonExample.exe
+C:\Users\uzytkownik\Desktop\wzorce\wzorce\DesignPatterns\01Singleton\Students\2018\meggert\Singleton\SingletonExample\obj\Debug\SingletonExample.pdb

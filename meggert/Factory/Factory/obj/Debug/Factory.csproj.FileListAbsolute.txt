@@ -1,0 +1,15 @@
+C:\Users\eggert.m\Desktop\Factory\Factory\bin\Debug\Factory.exe.config
+C:\Users\eggert.m\Desktop\Factory\Factory\bin\Debug\Factory.exe
+C:\Users\eggert.m\Desktop\Factory\Factory\bin\Debug\Factory.pdb
+C:\Users\eggert.m\Desktop\Factory\Factory\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\eggert.m\Desktop\Factory\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\eggert.m\Desktop\Factory\Factory\obj\Debug\Factory.exe
+C:\Users\eggert.m\Desktop\Factory\Factory\obj\Debug\Factory.pdb
+C:\Users\uzytkownik\Desktop\wzorce\2\Factory\bin\Debug\Factory.exe.config
+C:\Users\uzytkownik\Desktop\wzorce\2\Factory\obj\Debug\Factory.exe
+C:\Users\uzytkownik\Desktop\wzorce\2\Factory\obj\Debug\Factory.pdb
+C:\Users\uzytkownik\Desktop\wzorce\2\Factory\bin\Debug\Factory.exe
+C:\Users\uzytkownik\Desktop\wzorce\2\Factory\bin\Debug\Factory.pdb
+C:\Users\uzytkownik\Desktop\wzorce\wzorce\DesignPatterns\02Fabryka\Students\2018\meggert\Factory\Factory\bin\Debug\Factory.exe.config
+C:\Users\uzytkownik\Desktop\wzorce\wzorce\DesignPatterns\02Fabryka\Students\2018\meggert\Factory\Factory\obj\Debug\Factory.exe
+C:\Users\uzytkownik\Desktop\wzorce\wzorce\DesignPatterns\02Fabryka\Students\2018\meggert\Factory\Factory\obj\Debug\Factory.pdb
